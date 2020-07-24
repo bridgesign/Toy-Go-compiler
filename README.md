@@ -1,6 +1,6 @@
 # Toy Go Compiler
 
-This is a toy Go compiler. The focus is on making a compiler as it is a part of the CS327: Compilers Course. This is a single sweep compiler with focus on register allocation .
+This is a toy Go compiler. The focus is on making a compiler as it is a part of the CS327: Compilers Course. This is a single pass compiler with focus on register allocation. .
 
 ## Requirements
 1. flex 2.6.4
